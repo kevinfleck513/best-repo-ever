@@ -1,4 +1,6 @@
 # best-repo-ever
 
 this is a test
-NEW BRANCH 1 TEST
+
+BRANCH 2 TEST
+
